@@ -1,12 +1,23 @@
-# FlowCurve - Update Channel
+# FlowCurve — Official Update Channel
 
-Pusat informasi pembaruan versi resmi untuk **FlowCurve** (Adobe After Effects Easing Panel).
+Official release and version notification channel for **FlowCurve** (Interactive Easing & Curve Editor for Adobe After Effects).
 
-- **Current Version**: 1.0.0
-- **Release Date**: 2026-10-26
-- **Developer**: YuEx-DEV
+- **Current Version:** 1.0.0
+- **Release Date:** 2026-10-26
+- **Developer:** YuEx-DEV
+- **Platform:** Adobe After Effects CC 2019 – 2025+ (Windows & macOS)
 
 ---
 
-### Cara Kerja Pembaruan:
-Panel FlowCurve di After Effects secara otomatis membaca file `version.json` dari repositori ini setiap kali dijalankan. Jika terdapat versi yang lebih baru dari yang terpasang di komputer pengguna, FlowCurve akan memunculkan tombol notifikasi pembaruan secara instan.
+### How Updates Work
+The FlowCurve panel in Adobe After Effects queries `version.json` from this repository upon launch. When a newer release is available, the extension displays an in-app update notification badge and direct access to download the latest package.
+
+---
+
+### Features Overview
+- **6 Animation Engines:** Native AE Bézier, Robert Penner Easing, Spring Physics, Bounce Simulation, Elastic Curves, and Expression Baking.
+- **Interactive Curve Canvas:** Real-time Bézier handles with Shift + Drag axis locking (horizontal / vertical constrain).
+- **Motion Preview:** Real-time visual motion preview directly on the canvas.
+- **Keyframe Modes:** Native velocity easing, 60fps smart baking, or non-destructive expressions.
+- **Custom Presets:** Save, favorite, import, and export custom curves.
+- **Lifetime Access:** One-time purchase with free lifetime updates.
