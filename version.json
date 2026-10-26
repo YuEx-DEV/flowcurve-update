@@ -1,7 +1,5 @@
 {
-  "version": "1.0.0",
-  "name": "FlowCurve",
-  "releaseDate": "2026-10-26",
-  "changelog": "Initial Release: 6 Easing Engines, Shift-Drag Axis Lock, Pen-Tool Custom Spline, Native/Bake/Expression Modes.",
-  "updateUrl": "https://drive.google.com/drive/folders/1_EF3A1h7_quFyooDELG7m9uVJ3EaMDTA?usp=sharing"
+  "encrypted": true,
+  "name": "FlowCurve Release Metadata",
+  "payload": "81c893c5d2b3b3adb1b6d6fedb93f9d0daddd7ebe0cbd2dcd695fbe282b2b783878cd0a185d6c1d7b5a7c9d6d0c0d285a1b0bbfacee6cb92e5d6d9dcc5eaf093919d91d4a9a1aab9bd98ab9e80edc2bd839cb3abc4df91e1d2ada5a5adbdcee4cf82928187849ba0e2e0ddd6dad9a4b3e8fe8b9cad9fd6faa4868c92e783dddac293fbaea3aff2f8a4a1978f838f9b81d584b7d6c7dede9792b0a8b7b691e8d9ecb6949d9b90e880c4d8d49cf2b9b0b6bbab87ad96ccf7ad9b8990b4ec879f93c6c7a5a1b0bb8d86a8db98f588809985b4f88a9cd5c1deb7a5eab9b79ba395c7f9839b80daa3b0ccc5d49cd1aeaca0bbaa87ebc8fd92a6c7acc4aff5fac2c4f5ceaeaf809b94b3f3949ba2b6bedeb0a68fe1e7f08cc2b2b0f9adb095b690ccb0c289"
 }
