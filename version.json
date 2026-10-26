@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "FlowCurve",
   "releaseDate": "2026-10-26",
-  "changelog": "Initial Release: 6 Easing Engines, Shift-Drag Axis Lock, Pen-Tool Custom Spline, Native/Bake/Expression Modes.",
+  "changelog": "Fitur baru: Shift-Drag Axis Lock (sumbu X/Y) & Custom Wallpaper support!",
   "updateUrl": "https://trakteer.id/"
 }
