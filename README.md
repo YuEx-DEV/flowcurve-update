@@ -17,8 +17,7 @@ The FlowCurve panel in Adobe After Effects queries `version.json` from this repo
 ### Release History & Changelog
 
 #### v1.1.1 (2026-11-01)
-- **Official Digital Code Signing:** Packages now officially signed with Adobe `ZXPSignCmd` and DigiCert TSA timestamping for seamless installation via ZXP Installer.
-- **Bézier Native Ease Fix:** Fixed velocity calculation for spatial properties (Position & Anchor Point) with automated distance-magnitude vectors.
+- **Official Digital Code Signing:** Packages are now officially signed with Adobe `ZXPSignCmd` and verified with DigiCert TSA timestamping. Enables seamless 1-click installation via ZXP Installer without manual Windows Registry setup (`PlayerDebugMode`).
 
 #### v1.1.0 (2026-10-27)
 - **Motion Tools Drawer:**
