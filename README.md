@@ -2,7 +2,7 @@
 
 Official release and version notification channel for **FlowCurve** (Interactive Easing & Curve Editor for Adobe After Effects).
 
-- **Current Version:** 1.1.1
+- **Current Version:** 1.1.2
 - **Release Date:** 2026-11-01
 - **Developer:** YuEx-DEV
 - **Platform:** Adobe After Effects 2021 – 2025+ (Windows & macOS)
@@ -15,6 +15,10 @@ The FlowCurve panel in Adobe After Effects queries `version.json` from this repo
 ---
 
 ### Release History & Changelog
+
+#### v1.1.2 (2026-11-01)
+- **Bézier Native Ease & Speed Ramp Fix:** Fixed tangent velocity calculations for steep curves and AMV Speed Ramps (Time Remap). Prevents handles from collapsing to zero speed and zero influence when touching canvas borders.
+- **Robust Minimum Influence:** Ensures Bézier handles in After Effects Graph Editor always remain active, visible, and curved across all properties (Time Remap, X/Y Position, Rotation, Scale).
 
 #### v1.1.1 (2026-11-01)
 - **Official Digital Code Signing:** Packages are now officially signed with Adobe `ZXPSignCmd` and verified with DigiCert TSA timestamping. Enables seamless 1-click installation via ZXP Installer without manual Windows Registry setup (`PlayerDebugMode`).
