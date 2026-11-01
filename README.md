@@ -5,7 +5,7 @@ Official release and version notification channel for **FlowCurve** (Interactive
 - **Current Version:** 1.1.1
 - **Release Date:** 2026-11-01
 - **Developer:** YuEx-DEV
-- **Platform:** Adobe After Effects CC 2019 – 2025+ (Windows & macOS)
+- **Platform:** Adobe After Effects 2021 – 2025+ (Windows & macOS)
 
 ---
 
